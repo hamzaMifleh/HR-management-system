@@ -1,0 +1,11 @@
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/bin/Debug/net10.0/HR.LeaveManagement.Domain.deps.json
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/bin/Debug/net10.0/HR.LeaveManagement.Domain.dll
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/bin/Debug/net10.0/HR.LeaveManagement.Domain.pdb
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net10.0/HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net10.0/HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net10.0/HR.LeaveManagement.Domain.AssemblyInfo.cs
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net10.0/HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net10.0/HR.LeaveManagement.Domain.dll
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net10.0/refint/HR.LeaveManagement.Domain.dll
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net10.0/HR.LeaveManagement.Domain.pdb
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net10.0/ref/HR.LeaveManagement.Domain.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj" />
+    <Project Path="src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj" />
+  </Folder>
+</Solution>

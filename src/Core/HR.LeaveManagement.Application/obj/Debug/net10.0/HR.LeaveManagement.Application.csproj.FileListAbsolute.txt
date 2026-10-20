@@ -1,0 +1,15 @@
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/obj/Debug/net10.0/HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/obj/Debug/net10.0/HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/obj/Debug/net10.0/HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/obj/Debug/net10.0/HR.LeaveManagement.Application.AssemblyInfo.cs
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/obj/Debug/net10.0/HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/bin/Debug/net10.0/HR.LeaveManagement.Application.deps.json
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/bin/Debug/net10.0/HR.LeaveManagement.Application.dll
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/bin/Debug/net10.0/HR.LeaveManagement.Application.pdb
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/bin/Debug/net10.0/HR.LeaveManagement.Domain.dll
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/bin/Debug/net10.0/HR.LeaveManagement.Domain.pdb
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/obj/Debug/net10.0/HR.Leave.CEB84392.Up2Date
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/obj/Debug/net10.0/HR.LeaveManagement.Application.dll
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/obj/Debug/net10.0/refint/HR.LeaveManagement.Application.dll
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/obj/Debug/net10.0/HR.LeaveManagement.Application.pdb
+/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/obj/Debug/net10.0/ref/HR.LeaveManagement.Application.dll
