@@ -9,13 +9,6 @@
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Features\LeaveAllocations\Handlers\Commands\" />
-    <Folder Include="Features\LeaveAllocations\Requests\Commands\" />
-    <Folder Include="Features\LeaveRequests\Handlers\Commands\" />
-    <Folder Include="Features\LeaveRequests\Requests\Commands\" />
-  </ItemGroup>
-
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

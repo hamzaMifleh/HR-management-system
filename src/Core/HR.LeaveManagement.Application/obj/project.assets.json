@@ -293,19 +293,19 @@
     ]
   },
   "packageFolders": {
-    "/home/hamzee/.nuget/packages/": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\RiderProjects\\HR-management-system\\src\\Core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
       "projectName": "HR.LeaveManagement.Application",
-      "projectPath": "/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
-      "packagesPath": "/home/hamzee/.nuget/packages/",
-      "outputPath": "/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Application/obj/",
+      "projectPath": "C:\\Users\\USER\\RiderProjects\\HR-management-system\\src\\Core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\RiderProjects\\HR-management-system\\src\\Core\\HR.LeaveManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/hamzee/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -318,8 +318,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj": {
-              "projectPath": "/home/hamzee/MyProjects/HR.LeaveMangement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj"
+            "C:\\Users\\USER\\RiderProjects\\HR-management-system\\src\\Core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\USER\\RiderProjects\\HR-management-system\\src\\Core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
             }
           }
         }
@@ -366,7 +366,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/hamzee/.dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
